@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Game Development with C++ and CyberSecurity.
+🌱 I’m currently learning Game Development and CyberSecurity.
 
 
 ## 🌐 Socials:
